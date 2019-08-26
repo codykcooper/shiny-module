@@ -1,2 +1,3 @@
 # shiny-module
- Tutorial on building shiny modules
+ In progress
+ Matierial for tutorial on building shiny modules.
